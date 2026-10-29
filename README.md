@@ -1,2 +1,1 @@
-# KFC
-## First Project
+# Display-Grid
